@@ -26,4 +26,4 @@ Abra `index.html` no navegador ou execute o servidor Flask para funcionalidade c
 
 ---
 
-*Blog criado em 2023 - Todos os direitos reservados.*
+*Blog criado em 2026 - Todos os direitos reservados.*
