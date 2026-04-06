@@ -1,0 +1,32 @@
+DESCRIÇÃO DO REPOSITÓRIO:
+
+Título: Blog de Manutenção de Computadores
+
+Descrição:
+Blog educativo e completo sobre manutenção, limpeza e reparo de computadores. Aqui você encontra dicas práticas sobre como limpar seu PC, diagnosticar problemas comuns e fazer upgrades simples para melhorar o desempenho. Ideal para iniciantes e usuários que querem prolongar a vida útil do seu computador.
+
+---
+
+TÓPICOS (Tags):
+- blog
+- manutenção-computadores
+- tutorial
+- html-css
+- educação
+- dicas-técnicas
+- pc
+- computador
+
+---
+
+SOBRE O PROJETO:
+
+Este é um blog responsivo desenvolvido com HTML5, CSS3 e JavaScript. O projeto inclui:
+✓ 3 páginas principais (Home, Posts, Contato)
+✓ Conteúdo sobre limpeza, diagnóstico e upgrades de PC
+✓ Formulário de contato funcional
+✓ Design moderno com fundo cinza e interface clean
+✓ Links para contato via WhatsApp e Email
+✓ Backend em Python (Flask) opcional
+
+Acesso online: https://deivitigr.github.io/blog-manutencao-computadores/
